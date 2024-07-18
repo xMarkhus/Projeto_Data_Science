@@ -1,3 +1,5 @@
-# Projeto_Data_Science
-Python Insights - Analisando Dados com Python / Case - Cancelamento de Clientes.
-As células estão sem saídas pois excediam o tamanho de arquivo permitido pelo GitHub
+# Projeto Data Science 
+> ## Python Insights - Analisando Dados com Python 📊
+> Caso - Cancelamento de Clientes.
+
+O projeto tem o objetivo de manipular uma base de dados para encontrar as possíveis causas de clientes inativos.
